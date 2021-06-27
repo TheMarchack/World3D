@@ -1,0 +1,2 @@
+rootProject.name = "World3D"
+include ':app'
